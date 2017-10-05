@@ -43,4 +43,4 @@ To be able to store data in Mysql you are going to need the following things:
         PRIMARY KEY (`id`)
         ) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4 COLLATE = utf8mb4_general_ci;
         
-Step 3: MAke the above changes in twitter.py. Run the python code using command: "python twitter.py"
+Step 3: Make the above changes in twitter.py. Run the python code using command: "python twitter.py"
